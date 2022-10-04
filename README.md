@@ -33,9 +33,14 @@ I'm a software engineering student who is passionate about writing code, solving
 - 🖥 &nbsp;
   ![Gimp Image Manipulation](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=gimp)
 
-<!-- ### Patrick's Stats
-<p align="center" >
-<img alt="Patrick's github stats" src="https://github-readme-stats.vercel.app/api?username=gitpk-0&show_icons=true&theme=merko"  > </p> -->
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitpk-0&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitpk-0&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 
 
 
