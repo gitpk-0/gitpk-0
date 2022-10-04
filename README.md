@@ -5,7 +5,7 @@ I'm a software engineering student who is passionate about writing code, solving
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Software Engineering (remotely) at Western Governors University.
-- 💼 &nbsp; Working as a Junior Category Manager at MOM's Organic Market.
+- 💼 &nbsp; Actively seeking job oppurtunities in the software development space.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Currently learning Java.
 
