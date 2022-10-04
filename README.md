@@ -4,9 +4,9 @@ I'm Patrick, a software engineering student who is passionate about writing code
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Software Engineering (remotely) at Western Governors University.
-- 💼 &nbsp; Actively seeking job oppurtunities in the software development space.
-- 🌱 &nbsp; Currently learning Java.
+- 🎓 &nbsp; Studying Software Engineering (remotely) at Western Governors University
+- 💼 &nbsp; Actively seeking job oppurtunities in the software development space
+- 🌱 &nbsp; Currently learning Java
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
