@@ -39,28 +39,12 @@ I'm a software engineering student who is passionate about writing code, solving
 
 <br/>
 
-<a href="https://github.com/gitpk-0">
+<!-- <a href="https://github.com/gitpk-0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitpk-0&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitpk-0&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 <br/>
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitpk-0&count_private=true)
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitpk-0)](https://github.com/gitpk-0/github-readme-stats)
 
 
-
-
-<!--
-**gitpk-0/gitpk-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
