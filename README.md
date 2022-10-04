@@ -45,7 +45,7 @@ I'm a software engineering student who is passionate about writing code, solving
 </a>
 
 <br/>
-
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitpk-0&count_private=true)
 
 
 
