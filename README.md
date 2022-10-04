@@ -42,5 +42,3 @@ I'm Patrick, a software engineering student who is passionate about writing code
 <!-- | <a href="https://github.com/gitpk-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gitpk-0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Patrick's github stats" /></a> | <a href="https://github.com/gitpk-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitpk-0&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
-<br/>
-
