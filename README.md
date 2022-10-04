@@ -1,8 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm a software engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
-
-- 🌱 I’m currently learning Java
+I'm a software engineering student who is passionate about writing code, solving problems, automating processes, and building software.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
