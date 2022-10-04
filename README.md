@@ -39,12 +39,8 @@ I'm a software engineering student who is passionate about writing code, solving
 
 <br/>
 
-<a href="https://github.com/gitpk-0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitpk-0&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitpk-0&theme=buefy&layout=compact" />
-</a>
+<!-- | <a href="https://github.com/gitpk-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gitpk-0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Patrick's github stats" /></a> | <a href="https://github.com/gitpk-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitpk-0&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<br/>
-[Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitpk-0)(https://github.com/gitpk-0/github-readme-stats)
-
+<br/> -->
 
