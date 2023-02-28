@@ -31,7 +31,7 @@ I'm Patrick, a software engineering student who is passionate about writing code
   <br/>
 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Intellij]()
+  ![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij)
   <br/>
 🖥 &nbsp;
   ![Gimp Image Manipulation](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=gimp)
