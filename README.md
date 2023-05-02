@@ -23,7 +23,7 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
   <br/>
 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
   <br/>
 ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
