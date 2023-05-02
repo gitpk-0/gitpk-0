@@ -28,7 +28,7 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
 ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-FFA3A3?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-C3A3FF?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-C3FFA3?style=flat&logo=markdown)
+  ![Markdown](https://img.shields.io/badge/-Markdown-A970FF?style=flat&logo=markdown)
   <br/>
 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-A3D8FF?style=flat&logo=visual-studio-code&logoColor=007ACC)
