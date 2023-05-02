@@ -17,7 +17,7 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-0095D5?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-F78E1E?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-FFC107?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-DB3E00?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-FF5722?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-795548?style=flat&logo=bootstrap&logoColor=563D7C)
   <br/>
