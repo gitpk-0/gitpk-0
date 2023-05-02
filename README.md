@@ -19,7 +19,7 @@ I'm Patrick, a dedicated Software Engineering student with a passion for craftin
   ![CSS](https://img.shields.io/badge/-CSS-F78E1E?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-DB3E00?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-FF5722?style=flat&logo=react)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-795548?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-BEDADC?style=flat&logo=bootstrap&logoColor=563D7C)
   <br/>
 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-2E2E2E?style=flat&logo=mysql)
