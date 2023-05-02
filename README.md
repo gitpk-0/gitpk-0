@@ -22,21 +22,21 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=563D7C)
   <br/>
 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-FFB0A3?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-Postgresql-A3FFD8?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-0072C6?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-Postgresql-31648C?style=flat&logo=postgresql)
   <br/>
 ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-FFA3A3?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-C3A3FF?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-24292E?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-A970FF?style=flat&logo=markdown)
   <br/>
 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-A3D8FF?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains)
-  ![Sublime](https://img.shields.io/badge/-Sublime%20Text%20Editor-A3A3FF?style=flat&logo=sublime-text-editor)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![JetBrains](https://img.shields.io/badge/-JetBrains-2E2E2E?style=flat&logo=jetbrains)
+  ![Sublime](https://img.shields.io/badge/-Sublime%20Text%20Editor-E04B4A?style=flat&logo=sublime-text-editor)
   <br/>
 🖥 &nbsp;
-  ![Gimp Image Manipulation](https://img.shields.io/badge/-Gimp-FFD8A3?style=flat&logo=gimp)
+  ![Gimp Image Manipulation](https://img.shields.io/badge/-Gimp-6F4E37?style=flat&logo=gimp)
 
 <br/>
 
