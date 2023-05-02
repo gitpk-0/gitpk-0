@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm Patrick, a Software Engineering student who is passionate about writing code, solving problems, automating processes, and building software.
+I'm Patrick, a dedicated Software Engineering student with a passion for crafting efficient, elegant code to solve complex problems. I thrive on automating processes and building innovative software solutions that push boundaries and exceed expectations. With a keen eye for detail and a hunger for continuous learning, I am always looking for new ways to enhance my skills and stay up-to-date with the latest industry trends.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -40,6 +40,8 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
 
 <br/>
 
+<!-- I'm Patrick, a recent Software Engineering graduate with a passion for crafting efficient, elegant code to solve complex problems. Throughout my studies, I have developed a deep understanding of software design principles and have gained extensive experience in automating processes and building innovative software solutions that push boundaries and exceed expectations. With a keen eye for detail and a hunger for continuous learning, I am always looking for new ways to enhance my skills and stay up-to-date with the latest industry trends. -->
+<!-- 
 | <a href="https://github.com/gitpk-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gitpk-0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Patrick's github stats" /></a> | <a href="https://github.com/gitpk-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitpk-0&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+ -->
