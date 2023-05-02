@@ -17,18 +17,18 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-0095D5?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-F78E1E?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-00B3E6?style=flat&logo=react)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-FFC107?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-FF5722?style=flat&logo=react)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-795548?style=flat&logo=bootstrap&logoColor=563D7C)
   <br/>
 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-0072C6?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-Postgresql-31648C?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4CAF50?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-Postgresql-2196F3?style=flat&logo=postgresql)
   <br/>
 ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+  ![Git](https://img.shields.io/badge/-Git-4CAF50?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-24292E?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-A970FF?style=flat&logo=markdown)
+  ![Markdown](https://img.shields.io/badge/-Markdown-8BC34A?style=flat&logo=markdown)
   <br/>
 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=007ACC)
