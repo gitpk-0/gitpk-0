@@ -40,6 +40,6 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
 
 <br/>
 
-<!-- | <a href="https://github.com/gitpk-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gitpk-0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Patrick's github stats" /></a> | <a href="https://github.com/gitpk-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitpk-0&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/gitpk-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gitpk-0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Patrick's github stats" /></a> | <a href="https://github.com/gitpk-0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitpk-0&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
--->
+
