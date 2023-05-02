@@ -12,7 +12,7 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
 
  💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
   <br/>
 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
