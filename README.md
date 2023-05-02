@@ -15,11 +15,11 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
   ![Java](https://img.shields.io/badge/-Java-4A90E2?style=flat&logo=java)
   <br/>
 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-E1A9FF?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-FFE8A3?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-A3FFC2?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-FFA3E1?style=flat&logo=react)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-A3CFFF?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![HTML5](https://img.shields.io/badge/-HTML5-0095D5?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-F78E1E?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-00B3E6?style=flat&logo=react)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=563D7C)
   <br/>
 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-FFB0A3?style=flat&logo=mysql)
