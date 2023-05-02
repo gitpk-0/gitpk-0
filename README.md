@@ -6,7 +6,7 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
 
 - 🎓 &nbsp; Studying Software Engineering (remotely) at Western Governors University
 - 💼 &nbsp; Actively seeking job oppurtunities in the software development space
-- 🌱 &nbsp; Currently learning Java
+- 🌱 &nbsp; Currently learning Spring Boot
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
