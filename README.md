@@ -11,8 +11,8 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
  💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-00EEFF?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-00EEFF?style=flat&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-006b76?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-006b76?style=flat&logo=java)
   <br/>
 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-194D33?style=flat&logo=HTML5)
