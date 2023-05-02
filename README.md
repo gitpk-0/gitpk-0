@@ -4,7 +4,7 @@ I'm Patrick, a dedicated Software Engineering student with a passion for craftin
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Software Engineering (remotely) at Western Governors University
+- 🎓 &nbsp; Pursuing a degree in Software Engineering from Western Governors University
 - 💼 &nbsp; Actively seeking job oppurtunities in the software development space
 - 🌱 &nbsp; Currently learning Spring Boot
 
