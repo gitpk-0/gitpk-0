@@ -31,7 +31,7 @@ I'm Patrick, a Software Engineering student who is passionate about writing code
   ![Markdown](https://img.shields.io/badge/-Markdown-8BC34A?style=flat&logo=markdown)
   <br/>
 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-BED3F3?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![JetBrains](https://img.shields.io/badge/-JetBrains-2E2E2E?style=flat&logo=jetbrains)
   ![Sublime](https://img.shields.io/badge/-Sublime%20Text%20Editor-E04B4A?style=flat&logo=sublime-text-editor)
   <br/>
