@@ -6,7 +6,7 @@ I'm Patrick, a dedicated Software Engineering student with a passion for craftin
 
 - 🎓 &nbsp; Pursuing a degree in Software Engineering from Western Governors University
 - 💼 &nbsp; Actively seeking job oppurtunities in the software development space
-- 🌱 &nbsp; Currently learning Spring Boot
+- 🌱 &nbsp; Currently learning more about Backend Architectures and Cloud deployment
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
