@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm Patrick, a dedicated Software Engineering student with a passion for crafting efficient, elegant code to solve complex problems. I thrive on automating processes and building innovative software solutions that push boundaries and exceed expectations. With a keen eye for detail and a hunger for continuous learning, I am always looking for new ways to enhance my skills and stay up-to-date with the latest industry trends.
+I'm Patrick, a dedicated Software Engineering graduate with a passion for crafting efficient, elegant code to solve complex problems. I thrive on automating processes and building innovative software solutions that push boundaries and exceed expectations. With a keen eye for detail and a hunger for continuous learning, I am always looking for new ways to enhance my skills and stay up-to-date with the latest industry trends.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
