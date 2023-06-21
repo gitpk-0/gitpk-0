@@ -4,7 +4,7 @@ I'm Patrick, a dedicated Software Engineering graduate with a passion for crafti
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Pursuing a degree in Software Engineering from Western Governors University
+- 🎓 &nbsp; Recent Software Engineering graduate from Western Governors University
 - 💼 &nbsp; Actively seeking job oppurtunities in the software development space
 - 🌱 &nbsp; Currently learning more about Backend Architectures and Cloud deployment
 
