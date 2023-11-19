@@ -21,7 +21,7 @@ I'm Patrick, a devoted, credentialed Software Engineer with a passion for crafti
   ![React](https://img.shields.io/badge/-React-FF5722?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-BEDADC?style=flat&logo=bootstrap&logoColor=563D7C)
   <br/>
-🛢 &nbsp;
+🛢 &nbsp;&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-2E2E2E?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-Postgresql-2E2E2E?style=flat&logo=postgresql)
   <br/>
@@ -35,7 +35,7 @@ I'm Patrick, a devoted, credentialed Software Engineer with a passion for crafti
   ![JetBrains](https://img.shields.io/badge/-JetBrains-2E2E2E?style=flat&logo=jetbrains)
   ![Sublime](https://img.shields.io/badge/-Sublime%20Text%20Editor-E04B4A?style=flat&logo=sublime-text-editor)
   <br/>
-🖥 &nbsp;
+🖥 &nbsp;&nbsp;&nbsp;
   ![Gimp Image Manipulation](https://img.shields.io/badge/-Gimp-6F4E37?style=flat&logo=gimp)
 
 <br/>
