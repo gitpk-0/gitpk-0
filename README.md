@@ -6,7 +6,7 @@ I'm Patrick, a devoted, credentialed Software Engineer with a passion for crafti
 
 - 🎓 &nbsp; Software Engineering graduate from Western Governors University
 - 💼 &nbsp; Actively seeking job oppurtunities in the software development space
-- 🌱 &nbsp; Currently learning more about Backend Architectures and Cloud deployment
+- 🌱 &nbsp; Currently learning more about code quality, design patterns, and software best practices
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
