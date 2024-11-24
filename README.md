@@ -15,7 +15,7 @@ I'm Patrick, a Software Developer who thrives on transforming complex challenges
 <br>
 
 <div align="center">
-<b>Tech I've Been Building With Recently</b>
+<h3><b>Tech I've Been Building With Recently</b></h3>
  <div style="margin-top: 10px; font-weight:600;">
  
  <a href="https://skillicons.dev">
@@ -33,46 +33,55 @@ I'm Patrick, a Software Developer who thrives on transforming complex challenges
 
 <details>
 <summary><b>🛠️ Tech I've developed with in the past</b></summary>
-<div align="center">
+<br>
+<br>
+<div align="left">
 
 <div style="margin-top: 10px; font-weight:600;">
-    <p>Languages and Frameworks</p>
+    <p><b>Languages and Frameworks</b></p>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,cs,html,js,java,python,nodejs&perline=4
-    " alt="Languages and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,cs,html,js,java,python,nodejs&perline=8" alt="Languages and Frameworks" />
     </a>
+    
 </div>
 <i>
 TypeScript, React, C#, HTML, JavaScript, Java, Python, Node.js
 </i>
 
 <br>
+<hr>
 
 <div style="margin-top: 10px; font-weight:600;">
-    <p>Databases</p>
+    <p><b>Databases</b></p>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlserver&perline=3
-    " alt="Databases" />
-    </a>
+    <img
+      src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlserver&perline=5"
+      alt="Databases"
+    />
+  </a>
 </div>
 <i>
 MySQL, PostgreSQL, MongoDB, SQL Server
 </i>
 
 <br>
+<hr>
 
 <div style="margin-top: 10px; font-weight:600;">
-    <p>Tools and Technologies</p>
+    <p><b>Tools and Technologies</b></p>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,apple,windows,aws,azure,heroku,androidstudio&perline=6
-    " alt="Tools and Platforms" />
-    </a>
+    <img
+      src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,apple,windows,aws,azure,heroku,androidstudio&perline=8"
+      alt="Tools and Platforms"
+    />
+  </a>
 </div>
 <i>
 Git, GitHub, VS Code, Visual Studio, Linux, macOS, Windows, AWS, Azure, Heroku, Android Studio
 </i>
 
 <br>
+<hr>
 </div>
 </details>
 
@@ -90,8 +99,10 @@ Git, GitHub, VS Code, Visual Studio, Linux, macOS, Windows, AWS, Azure, Heroku, 
 <br>
 </details>
 
+
 <details>  
  <summary><b>⚡  More About Me</b></summary>
+ <br>
  <div>
 
 📚 Background
