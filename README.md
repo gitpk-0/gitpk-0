@@ -15,7 +15,7 @@ I'm Patrick, a Software Developer who thrives on transforming complex challenges
 <br>
 
 <div align="center">
-Tech I've Been Building With Recently
+<b>Tech I've Been Building With Recently</b>
  <div style="margin-top: 10px; font-weight:600;">
  
  <a href="https://skillicons.dev">
