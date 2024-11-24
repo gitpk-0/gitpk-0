@@ -1,18 +1,11 @@
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
-
 <div align="left">
-<a href="mailto:patrick.kell1@pm.me">
-<img src="https://img.shields.io/badge/%20-Send%20me%20an%20email-black?color=14171A&labelColor=D44638&logo=maildotru&logoColor=ffffff" />
-</a>
-<a href="https://www.linkedin.com/in/patrick-kell-84ba551aa">
-<img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
+<h2>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
+<a href="mailto:patrick.kell1@pm.me"><img src="https://img.shields.io/badge/%20-Send%20me%20an%20email-black?color=14171A&labelColor=D44638&logo=maildotru&logoColor=ffffff" /></a>
+<a href="https://www.linkedin.com/in/patrick-kell-84ba551aa"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a></h2>
 </div>
-<br>
 
 I'm Patrick, a Software Developer who thrives on transforming complex challenges into elegant solutions. With experience across the full stack, I excel at building enterprise-scale applications and creating tools that enhance workflows and simplify daily tasks for people across all domains.
 
-<br>
 
 <div align="left">
 <h3><b>Tech I've Been Building With Recently</b></h3>
@@ -27,8 +20,6 @@ I'm Patrick, a Software Developer who thrives on transforming complex challenges
  </i>
 </div>
 <br>
-<br>
-
 
 
 
