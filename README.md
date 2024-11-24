@@ -14,7 +14,7 @@ I'm Patrick, a Software Developer who thrives on transforming complex challenges
 
 <br>
 
-<div align="center">
+<div align="left">
 <h3><b>Tech I've Been Building With Recently</b></h3>
  <div style="margin-top: 10px; font-weight:600;">
  
@@ -26,6 +26,7 @@ I'm Patrick, a Software Developer who thrives on transforming complex challenges
  TypeScript, React, Redux, C#, .NET, PostgreSQL
  </i>
 </div>
+<br>
 <br>
 
 
