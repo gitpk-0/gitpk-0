@@ -1,10 +1,10 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
 
 <div align="left">
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:patrick.kell1@pm.me">
 <img src="https://img.shields.io/badge/%20-Send%20me%20an%20email-black?color=14171A&labelColor=D44638&logo=maildotru&logoColor=ffffff" />
 </a>
-<a href="[YOUR_LINKEDIN_URL]">
+<a href="https://www.linkedin.com/in/patrick-kell-84ba551aa">
 <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 </div>
