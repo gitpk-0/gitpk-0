@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/patrick-kell-84ba551aa"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a></h2>
 </div>
 
-I'm Patrick, a Software Developer who thrives on transforming complex challenges into elegant solutions. With experience across the full stack, I excel at building enterprise-scale applications and creating tools that enhance workflows and simplify daily tasks for people across all domains.
+I'm Patrick, a Software Developer who thrives on transforming complex challenges into elegant solutions. Building on a solid foundation in full-stack development, I excel at building enterprise-scale applications and creating tools that enhance workflows and simplify daily tasks for people across all domains.
 
 
 <div align="left">
