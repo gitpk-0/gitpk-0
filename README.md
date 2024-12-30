@@ -1,9 +1,3 @@
-<div align="left">
-<a href="mailto:patrick.kell1@pm.me"><img src="https://img.shields.io/badge/%20-Email%20me-black?color=14171A&labelColor=D44638&logo=maildotru&logoColor=ffffff" /></a>
-<a href="https://www.linkedin.com/in/patrick-kell-84ba551aa"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a></h2>
-<h2></h2>
-</div>
-
 I'm Patrick, a Software Developer driven by curiosity and a love for problem-solving. With a solid foundation in full-stack development, I’m currently expanding my expertise by contributing to enterprise-scale applications, exploring open-source projects, and experimenting with self-hosting solutions. I thrive on opportunities to learn new technologies, address real-world challenges, and build user-focused systems that genuinely make a difference.
 
 
